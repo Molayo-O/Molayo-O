@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Molayo
 ### I am a second-year Computer Science student at Trent University with an interest in Software Engineering.
 * 🌱 I’m currently learning about Data Structures and Advanced Algorithms
-* Seeking Summer 2025 co-op opportunities.
+* 👨‍💻 Seeking Summer 2025 co-op opportunities.
 
 ## 🌐 Connect with me:
 Email: molayoogunfowora@trentu.ca <br><br>
