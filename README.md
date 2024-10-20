@@ -4,7 +4,7 @@
 * Seeking Summer 2025 co-op opportunities.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molayo-o/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molayo-o/) <br>
 Email: molayoogunfowora@trentu.ca
 
 # 💻 Tech Stack:
