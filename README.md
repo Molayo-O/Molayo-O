@@ -1,9 +1,8 @@
 ## Hi 👋 I'm Molayo
 ### I am a second-year Computer Science student at Trent University with an interest in Software Engineering.
-🌱 I’m currently learning about Data Structures and Advanced Algorithms
-📫 Reach me at molayoogunfowora@trentu.ca
+* 🌱 I’m currently learning about Data Structures and Advanced Algorithms
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/molayo-o/) 
 
 # 💻 Tech Stack:
