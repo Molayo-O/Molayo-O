@@ -2,7 +2,7 @@
 ### I am a second-year Computer Science student at Trent University with an interest in Software Engineering.
 * 🌱 I’m currently learning about Data Structures and Advanced Algorithms
 
-## 🌐 Social:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/molayo-o/) 
 
 # 💻 Tech Stack:
