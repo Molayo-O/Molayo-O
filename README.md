@@ -4,7 +4,6 @@
 * 👨‍💻 Seeking a Summer 2025 internship to apply my skills. I am adaptable, eager to learn, and ready to engage in innovative projects.
 
 ## 🌐 Connect with me:
-Email: molayoogunfowora@trentu.ca <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molayo-o/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:molayoogunfowora@trentu.ca) 
 
 # 💻 Tech Stack:
